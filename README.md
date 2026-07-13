@@ -47,7 +47,7 @@ Egy céghez több állásjelentkezés tartozhat.
 
 ### Applications
 
-
+![Applications](screenshots/applications.png)
 
 
 ## Tanult készségek
