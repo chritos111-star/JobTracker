@@ -42,12 +42,12 @@ Egy céghez több állásjelentkezés tartozhat.
 
 ### Companies
 
-*(később ide kerül a kép)*
+![Companies](screenshots/companies.png)
 
 
 ### Applications
 
-*(később ide kerül a kép)*
+
 
 
 ## Tanult készségek
